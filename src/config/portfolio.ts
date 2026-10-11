@@ -20,9 +20,9 @@ export const profile = {
     es: "Construyo sistemas web con Java y Angular, y también trabajo con React y Node.js.",
   } satisfies Localized,
   description: {
-    en: "Portfolio of Diego Eduardo Soares da Silva, full stack developer in Belford Roxo, Brazil. Java, Angular, React and Node.js. Projects, experience, contact.",
-    pt: "Portfólio de Diego Eduardo Soares da Silva, desenvolvedor full stack em Belford Roxo, RJ. Java, Angular, React e Node.js. Projetos, experiência e contato.",
-    es: "Portafolio de Diego Eduardo Soares da Silva, desarrollador full stack en Belford Roxo, Brasil. Java, Angular, React y Node.js. Proyectos, experiencia y contacto.",
+    en: "Diego Eduardo, full stack developer. Back-end foundations and full stack in practice, with Java, Spring Boot and Angular. Projects, experience and résumé.",
+    pt: "Diego Eduardo, desenvolvedor full stack. Back-end na base e full stack na prática, com Java, Spring Boot e Angular. Projetos, experiência e currículo.",
+    es: "Diego Eduardo, desarrollador full stack. Base en back-end y práctica full stack, con Java, Spring Boot y Angular. Proyectos, experiencia y currículum.",
   } satisfies Localized,
   location: {
     en: "Belford Roxo, RJ, Brazil",
