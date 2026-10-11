@@ -49,6 +49,7 @@ export const links = {
   email: "diegoeduardo.dev@gmail.com",
   github: "https://github.com/diegoeduardo-dev",
   linkedin: "https://www.linkedin.com/in/diegoeduardo-dev",
+  contactForm: "https://formspree.io/f/mdeadwoz",
 };
 
 export const cv: Record<Lang, string> = {

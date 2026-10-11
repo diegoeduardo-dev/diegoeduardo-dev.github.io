@@ -27,9 +27,9 @@ export function Education({ lang, s }: { lang: Lang; s: Copy }) {
                   s.now
                 )}
               </span>
-              <h3>{item.org}</h3>
+              <h3>{item.title[lang]}</h3>
               <p>
-                {item.title[lang]}
+                {item.org}
                 {item.note && ` · ${item.note[lang]}`}
               </p>
             </li>
