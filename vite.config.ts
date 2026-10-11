@@ -38,7 +38,7 @@ function seoFiles(): Plugin {
       );
       emit(
         "404.html",
-        `<!doctype html><html lang="pt-BR"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="robots" content="noindex"><title>404 | Diego Eduardo</title><style>body{font:16px/1.6 system-ui,sans-serif;display:grid;place-content:center;min-height:100vh;margin:0;padding:1.5rem;text-align:center}a{color:#c2410c}</style></head><body><h1>404</h1><p>Página não encontrada. / Page not found. / Página no encontrada.</p><p><a href="${SITE_BASE}">${home}</a></p></body></html>`,
+        `<!doctype html><html lang="pt-BR"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="robots" content="noindex"><title>404 | Diego Eduardo</title><style>body{font:16px/1.6 system-ui,sans-serif;display:grid;place-content:center;min-height:100vh;margin:0;padding:1.5rem;text-align:center}a{color:#2948b8}</style></head><body><h1>404</h1><p>Página não encontrada. / Page not found. / Página no encontrada.</p><p><a href="${SITE_BASE}">${home}</a></p></body></html>`,
       );
     },
   };
